@@ -1,0 +1,14 @@
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\bin\Debug\analisisYdiseño.exe.config
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\bin\Debug\analisisYdiseño.exe
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\bin\Debug\analisisYdiseño.pdb
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.csprojResolveAssemblyReference.cache
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.Form1.resources
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.Properties.Resources.resources
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.csproj.GenerateResource.Cache
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.exe
+c:\users\saul_manich\documents\visual studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.pdb
+C:\Users\Saul_ManiCh\Documents\Visual Studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.registrarse.resources
+C:\Users\Saul_ManiCh\Documents\Visual Studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.decano.resources
+C:\Users\Saul_ManiCh\Documents\Visual Studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.docente.resources
+C:\Users\Saul_ManiCh\Documents\Visual Studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.estudiante.resources
+C:\Users\Saul_ManiCh\Documents\Visual Studio 2012\Projects\analisisYdiseño\analisisYdiseño\obj\Debug\analisisYdiseño.secretario.resources
